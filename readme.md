@@ -10,3 +10,5 @@ Follower:
 
 Voice-over:	
 	The vibe is getting more annoying now, air gradually stops flowing.
+	...
+	The rage is accumlating.
